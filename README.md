@@ -1,6 +1,6 @@
 # 🌀 Vortex
 
-
+- **Deployed LINK **: [LINK](https://vortex.dbprojects.software/game)
 
 ### **A pixel-perfect multiplayer world where your avatar is always live.**
 *Like Gather Town or ZEP — but built for real gamers.*
